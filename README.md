@@ -1,11 +1,10 @@
 # Bypass-Root-Detection-In-Android-App
 
 A walkthrough to bypass root detection in android app... \
-<br \>
+\\
 Check out the wiki page.. \
 
-<br \>
-<br \>
+\\
 
 Resources: \
 Parrot OS: https://parrotsec.org \
@@ -15,8 +14,7 @@ Frida: https://frida.re \
 Jadx: https://github.com/skylot/jadx.git \
 Apktool: https://apktool.org \
 
-<br \>
-<br \>
+\\
 
 Reference: \
 https://www.youtube.com/watch?v=4X_go9r4nxM&t=439s \
