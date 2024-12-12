@@ -6,7 +6,7 @@ Check out the wiki page.. \
 
 
 
-Resources: \
+Resources: 
 Parrot OS: https://parrotsec.org \
 Genymotion: https://www.genymotion.com \
 ADB Tools: https://github.com/ASHWIN990/ADB-Toolkit.git \
