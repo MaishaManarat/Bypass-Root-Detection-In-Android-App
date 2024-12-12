@@ -2,7 +2,7 @@
 
 A walkthrough to bypass root detection in android app... 
 
-Check out the wiki page.....
+Check out the wiki page of this git repo.....
 
 
 
@@ -16,7 +16,7 @@ Jadx: https://github.com/skylot/jadx.git \
 Apktool: https://apktool.org  
 
 
-Reference:\
+Reference:
 \
 https://www.youtube.com/watch?v=4X_go9r4nxM&t=439s \
 https://www.youtube.com/watch?v=QfQmqVK8qxI&t=32s \
