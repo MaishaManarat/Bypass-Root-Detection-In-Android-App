@@ -2,7 +2,7 @@
 
 A walkthrough to bypass root detection in android app... 
 
-Check out the wiki page of this git repo.....
+Check out the wiki page of this git repo..... https://github.com/MaishaManarat/Bypass-Root-Detection-In-Android-App.wiki.git
 
 
 
